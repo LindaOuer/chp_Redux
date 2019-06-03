@@ -1,0 +1,3 @@
+export const ADD_CARDNB = "ADD_CARDNB";
+export const ADD_CARDHOLDER = "ADD_CARDHOLDER";
+export const ADD_VALIDTHRU = "ADD_VALIDTHRU";
