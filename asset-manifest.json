@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/chp_redux/static/css/main.2cce8147.chunk.css",
+    "main.js": "/chp_redux/static/js/main.48d254c9.chunk.js",
+    "main.js.map": "/chp_redux/static/js/main.48d254c9.chunk.js.map",
+    "runtime~main.js": "/chp_redux/static/js/runtime~main.9d76a4e9.js",
+    "runtime~main.js.map": "/chp_redux/static/js/runtime~main.9d76a4e9.js.map",
+    "static/js/2.20115286.chunk.js": "/chp_redux/static/js/2.20115286.chunk.js",
+    "static/js/2.20115286.chunk.js.map": "/chp_redux/static/js/2.20115286.chunk.js.map",
+    "index.html": "/chp_redux/index.html",
+    "precache-manifest.f1cd262f7838a4279ccbc1a492c84233.js": "/chp_redux/precache-manifest.f1cd262f7838a4279ccbc1a492c84233.js",
+    "service-worker.js": "/chp_redux/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/chp_redux/static/css/main.2cce8147.chunk.css.map",
+    "static/media/slate_card.png": "/chp_redux/static/media/slate_card.5f7f1307.png"
+  }
+}
